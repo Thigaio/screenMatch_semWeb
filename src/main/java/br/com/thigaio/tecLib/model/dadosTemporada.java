@@ -1,4 +1,4 @@
-package br.com.thigaio.screenMatch.model;
+package br.com.thigaio.tecLib.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

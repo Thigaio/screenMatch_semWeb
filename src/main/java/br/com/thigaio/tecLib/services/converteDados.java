@@ -1,6 +1,5 @@
-package br.com.thigaio.screenMatch.services;
+package br.com.thigaio.tecLib.services;
 
-import br.com.thigaio.screenMatch.model.dadosSerie;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

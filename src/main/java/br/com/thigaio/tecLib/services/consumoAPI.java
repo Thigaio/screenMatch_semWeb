@@ -1,4 +1,4 @@
-package br.com.thigaio.screenMatch.services;
+package br.com.thigaio.tecLib.services;
 
 import java.io.IOException;
 import java.net.URI;
